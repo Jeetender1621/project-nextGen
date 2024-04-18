@@ -1,2 +1,2 @@
 # project-nextGen
-nextGen: Project using HTML &amp; CSS
+nextGen: Project using HTML,CSS & JS
