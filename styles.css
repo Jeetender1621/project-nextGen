@@ -209,7 +209,7 @@
     align-items: center;
     justify-self: center;
     margin: 0 auto;
-    height: 90vh;
+    height: 100vh;
     background-color: #141414;
     z-index: 1;
     width: 100%;
@@ -304,7 +304,7 @@
         justify-self: center;
         width: 100%;
         margin: 0 auto;
-        height: 90vh;
+        height: 100vh;
     }
 
     .main-content{
@@ -361,7 +361,6 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    height: 100vh;
 }
 
 .services h1{
